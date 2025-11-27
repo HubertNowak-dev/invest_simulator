@@ -1,2 +1,2 @@
 # invest_simulator
-experiments with simple investing strategies simulation based on technical analysis signals
+Experiments with simple investing strategies simulation based on technical analysis signals. Educational and training only.
